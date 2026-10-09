@@ -41,7 +41,7 @@ Currently in the initial setup and data exploration phase.
 ## Setup
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/Angel4Reyes/game-review-intelligence)>
 cd game-review-intelligence
 
 python3 -m venv .venv
