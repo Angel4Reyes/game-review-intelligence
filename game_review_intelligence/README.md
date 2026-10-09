@@ -40,11 +40,14 @@ Currently in the initial setup and data exploration phase.
 
 ## Setup
 
+## Setup
+
 ```bash
-git clone <(https://github.com/Angel4Reyes/game-review-intelligence)>
+git clone https://github.com/Angel4Reyes/game-review-intelligence.git
 cd game-review-intelligence
 
 python3 -m venv .venv
 source .venv/bin/activate
 
-pip install -r requirements.txt
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
